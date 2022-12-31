@@ -15,7 +15,7 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col"><h5>{$remainingCredit}</h5></div>
-                                <div class="col-md-7 col-sm-3 text-right">Remaining Credit</div>
+                                <div class="col text-right">Remaining Credit</div>
                             </div>
                         </div>
                     </div>
